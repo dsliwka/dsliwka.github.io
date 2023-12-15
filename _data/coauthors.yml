@@ -1,34 +1,81 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Kampkötter":
+  - firstname: ["Patrick", "P.", "Patrick Kampkötter"]
+    url: https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-wirtschaftswissenschaft/wirtschaftswissenschaft/lehrstuehle/managerial-accounting/team/prof-dr-patrick-kampkoetter/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Vogelsang":
+  - firstname: ["Timo", "T.", "Timo Vogelsang"]
+    url: https://sites.google.com/site/vogelsangtimo/
+    
+"Opitz":
+  - firstname: ["Saskia", "S.", "Saskia Opitz"]
+    url: https://sites.google.com/view/saskia-opitz/startseite
+    
+"Zimmermann":
+  - firstname: ["Tom", "T.", "Tom Zimmermann"]
+    url: http://www.tomzimmermann.net/
+    
+"Kusterer": 
+  - firstname: ["David", "D.", "David J"]
+    url: https://djkusterer.github.io/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Kajackaite":
+  - firstname: ["Agne", "A."]
+    url: https://sites.google.com/site/agnekajackaite/
+    
+"Manthei":
+  - firstname: ["Kathrin"]
+    url: https://www.rfh-koeln.de/forschung-projekte/institute_und_kompetenzzentren/institut_hanse/team/kathrin_manthei/index_ger.html
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Alfitian":
+  - firstname: ["Jakob", "J."]
+    url: https://sites.google.com/view/jakobalfitian
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Danilov":
+  - firstname: ["Anastasia", "A."]
+    url: https://anastasiadanilov.de/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Khalmetski":
+  - firstname: ["Kiryl", "K."]
+    url: http://www.kirylkhalmetski.com/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Biemann":
+  - firstname: ["Torsten", "T."]
+    url: https://www.bwl.uni-mannheim.de/biemann/team/lehrstuhl/prof-dr-torsten-biemann/
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Fischer":
+  - firstname: ["Mira", "M."]
+    url: http://mirafischer.net/
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Grund":
+  - firstname: ["Christian", "C.", "Ch."]
+    url: https://www.hrm.rwth-aachen.de/cms/HRM/Der-Lehrstuhl/~stei/Team/lidx/1/
+
+"Harbring":
+  - firstname: ["Christine", "C.", "Ch."]
+    url: https://www.org.rwth-aachen.de/cms/org/Der-Lehrstuhl/~qxuo/Team/
+
+"Werner":
+  - firstname: ["Peter", "P."]
+    url: https://sites.google.com/view/peterwerner/home
+
+
+"Muehlheusser":
+  - firstname: ["Gerd", "G."]
+    url: https://sites.google.com/view/muehlheusser
+
+"Irlenbusch":
+  - firstname: ["Bernd", "B."]
+    url: https://wiso.uni-koeln.de/de/forschung/find-an-expert/expertinnen/prof-dr-bernd-irlenbusch
+
+"Ockenfels":
+  - firstname: ["Axel", "A."]
+    url: https://ockenfels.uni-koeln.de/de/
+
+"Nieken":
+  - firstname: ["Petra", "P."]
+    url: https://www.ibu.kit.edu/1967_1975.php
+
+"Kölle":
+  - firstname: ["Felix", "F."]
+    url: https://felixkoelle.weebly.com/
+
