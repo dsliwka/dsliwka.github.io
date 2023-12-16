@@ -23,9 +23,9 @@ social: true  # includes social icons at the bottom of the page
 I am a professor of management in the Faculty of Management, Economics, and Social Sciences at the [University of Cologne](https://wiso.uni-koeln.de/en/). I am part of the [Corporate Development](https://cd.wiso.uni-koeln.de/en/) area, a research fellow at [IZA](https://www.iza.org/person/790/dirk-sliwka) and [CESifo](https://www.cesifo.org/en), and a member of [C-SEB](https://c-seb.de/) and [ECONtribute](https://econtribute.de/).
 
 My main fields of interest are:
- - Evaluation of Management Practices in Field Experiments 
  - Organizational/Personnel Economics
- - Behavioral Economics
  - Human Resource Management
+ - Evaluation of Management Practices in Field Experiments 
+ - Behavioral Economics
  - Management Accounting 
  
