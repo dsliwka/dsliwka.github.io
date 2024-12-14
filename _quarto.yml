@@ -1,0 +1,45 @@
+project:
+  type: website
+
+website:
+  title: "Dirk Sliwka"
+  favicon: assets\icons\UoC_logo.jpg
+  navbar:
+    background: "#FFFFFF"
+    foreground: "#000000"
+    search: true
+    left:
+      - text: "papers & publications"
+        href: papers.qmd
+      - text: "cv"
+        href: cv.qmd
+      - text: "press"
+        href: press.qmd
+      - text: "teaching"
+        href: teaching.qmd
+    right:
+      - icon: envelope-fill
+        href: "mailto:dirk.sliwka@uni-koeln.de"
+      - text: "{{< ai orcid >}}"
+        href: "https://orcid.org/0000-0002-8026-0165"
+        target: _blank
+      - text: "{{< ai scopus >}}"
+        href: "https://www.scopus.com/authid/detail.uri?authorId=6603137505"
+        target: _blank
+      - icon: github
+        href: "https://github.com/dsliwka/"
+      - text: "{{< ai google-scholar >}}"
+        href: "https://scholar.google.com/citations?user=7wje7BIAAAAJ&hl=en&oi=ao"
+      
+
+format:
+  html:
+    theme: 
+      - pulse
+      - custom.scss
+    css: custom.css
+    linkcolor: "#007a04"
+    backgroundcolor: "#f8f9fa"
+    toc: true
+    
+

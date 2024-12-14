@@ -1,0 +1,28 @@
+/*-- scss:defaults --*/
+
+$theme: "custom";
+
+// Links
+$link-color: #007a04 !default;
+$link-decoration: none !default;
+$link-hover-color: #007a04 !default;
+$link-hover-decoration: underline !default;
+
+/*-- scss:rules --*/
+.container {
+    max-width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+.quarto-navbar {
+  border-bottom: 1px solid #000000; /* Adjust the color and thickness as needed */
+}
+
+.quarto-navbar a,
+.quarto-navbar .navbar-brand,
+.quarto-navbar .navbar-nav .nav-link {
+  font-family: 'Arial', sans-serif !important; /* Change to your desired font */
+  font-weight: normal !important; /* Ensure the font is not bold */
+  text-transform: none !important; /* Ensure the text is not uppercase */
+}

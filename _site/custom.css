@@ -1,0 +1,25 @@
+/* css styles */
+
+.container {
+    max-width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+.quarto-navbar a,
+.quarto-navbar .navbar-brand,
+.quarto-navbar .navbar-nav .nav-link {
+  border-bottom: 1px solid #000000; /* Adjust the color and thickness as needed */
+  font-family: 'Arial', sans-serif; /* Change to your desired font */
+  font-weight: normal !important; /* Ensure the font is not bold */
+  text-transform: none !important; /* Ensure the text is not uppercase */
+}
+
+.custom-font {
+  font-family: Arial, sans-serif;
+  font-size: 9px;
+}
+
+/* .navbar-logo {
+  max-height: 100px;
+} */

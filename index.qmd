@@ -1,0 +1,38 @@
+---
+#title: "Dirk Sliwka"
+---
+<br>
+<span style="font-size: 1.5em;">**Dirk Sliwka**</span><br>
+[University of Cologne](https://wiso.uni-koeln.de/en/)
+
+::: {.grid}
+
+::: {.g-col-8}
+I am a professor of management in the Faculty of Management, Economics, and Social Sciences at the [University of Cologne](https://wiso.uni-koeln.de/en/) in the department [Corporate Development](https://cd.wiso.uni-koeln.de/en/). I am also senior research fellow at the [Max Planck Institute for Research on Collective Goods](https://www.coll.mpg.de/), a research fellow at [IZA](https://www.iza.org/person/790/dirk-sliwka) and [CESifo](https://www.cesifo.org/en), and a member of [C-SEB](https://c-seb.de/) and [ECONtribute](https://econtribute.de/).<br>
+<br>
+My research focuses on designing effective Human Resource Management practices within firms and evaluating their impact on behavior, performance, and well-being. I am particularly interested in the design of incentives and performance management processes as well as the role of social norms in organizations. <br>
+<br>
+My main research fields of interest are:<br>
+<span style="display: block; margin-bottom: 6pt;"></span>
+<ul>
+    <li>Organizational/Personnel Economics</li>
+    <li>Human Resource Management</li>
+    <li>Field Experiments in Firms</li>
+    <li>Behavioral Economics</li>
+    <li>Management Accounting</li>
+</ul>
+:::
+
+::: {.g-col-4}
+![](assets/img/SliwkaDirk.jpg)
+<br>
+<div style="font-size: 1em; margin-top: 6px;">
+    University of Cologne
+    Universitätsstraße 22a
+    D-50937 Köln
+    Germany
+</div>
+
+:::
+
+:::

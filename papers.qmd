@@ -1,0 +1,549 @@
+---
+toc: false
+---
+
+## 2024
+**Research: When Bonuses Backfire**<br>
+<a href="#">Dirk Sliwka</a>, <a href="https://sites.google.com/site/vogelsangtimo/">Timo Vogelsang</a><br>
+*hbr.org*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://hbr.org/2024/09/research-when-bonuses-backfire" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<br><br>
+**Works councils as gatekeepers: Codetermination, management practices, and job satisfaction**<br>
+<a href="https://www.hrm.rwth-aachen.de/cms/HRM/Der-Lehrstuhl/~stei/Team/lidx/1/">Christian Grund</a>, <a href="#">Dirk Sliwka</a>, <a href="#">Krystina Titz</a><br>
+*Labour Economics*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://www.sciencedirect.com/science/article/pii/S0927537124000587" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2024-Works-councils-as-gatekeepers:-Codetermination,-management-practices,-and-job-satisfaction')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2024-Works-councils-as-gatekeepers:-Codetermination,-management-practices,-and-job-satisfaction" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">This paper analyzes the role of works councils as gatekeepers safeguarding employee's interests in the adoption of management practices to monitor employee performance and provide feedback. We first introduce a formal model predicting that (i) the introduction of such management practices leads to a stronger increase (or weaker decrease) in job satisfaction when a works council is in place, (ii) that this effect should be larger the lower the prior level of employee participation and (iii) that works councils increase the likelihood of the implementation of these practices at the level of individual employees. We provide evidence in line with these hypotheses, using linked-employer-employee panel data from Germany. We indeed find that the adoption of formal performance appraisals and feedback interviews is associated with a significantly larger increase in job satisfaction when there is a works council. This pattern is driven by establishments without collective bargaining agreements. The evidence also suggests that works councils indeed facilitate the implementation of such management practices, as codetermined firms have a higher likelihood that a practice implemented on the firm level is actually applied by middle management.</div>
+<br><br>
+**Multi-rater Performance Evaluations and Incentives**<br>
+<a href="https://ockenfels.uni-koeln.de/de/">Axel Ockenfels</a>, <a href="#">Dirk Sliwka</a>, <a href="https://sites.google.com/view/peterwerner/home">Peter Werner</a><br>
+*Journal of Labor Economics (forthcoming)*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="assets/pdf/OSW_Final_Paper_13Feb2024.pdf" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  PDF  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2024-Multi-rater-Performance-Evaluations-and-Incentives')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2024-Multi-rater-Performance-Evaluations-and-Incentives" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We compare evaluations of employee performance by individuals and groups of supervisors, analyzing a formal model and running a laboratory experiment. The model predicts that multi-rater evaluations are more precise than single-rater evaluations if groups rationally aggregate their signals about employee performance. Our controlled laboratory experiment confirms this prediction and finds evidence that this can indeed be attributed to accurate information processing in the group. Moreover, when employee compensation depends on evaluations, multi-rater evaluations tend to be associated with higher performance.</div>
+<br><br>
+**Social Preferences and the Informativeness of Subjective Performance Evaluations**<br>
+<a href="https://djkusterer.github.io/">David J Kusterer</a>, <a href="#">Dirk Sliwka</a><br>
+*Management Science (forthcoming)*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="assets/pdf/SocPrefEval2023.pdf" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  PDF  </a>&nbsp;&nbsp;<a href="https://doi.org/10.1287/mnsc.2022.02267" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2024-Social-Preferences-and-the-Informativeness-of-Subjective-Performance-Evaluations')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2024-Social-Preferences-and-the-Informativeness-of-Subjective-Performance-Evaluations" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">Abstract We study biases and the informativeness of subjective performance evaluations in an MTurk experiment, testing the implications of a standard formal framework of rational subjective evaluations. In the experiment, subjects in the role of workers perform a real effort task. Subjects in the role of supervisors observe samples of the workers’ output and assess their performance. We conduct 6 experimental treatments varying (i) whether workers’ pay depends on the performance evaluation, (ii) whether supervisors are paid for the accuracy of their evaluations, and (iii) the precision of the information available to supervisors. Moreover, we use the exogenous assignment of supervisors to workers to investigate the association between supervisors' social preferences and their rating quality. In line with the model of optimal evaluations, we find that ratings are more lenient and less informative when they determine bonus payments. Rewards for accuracy reduce leniency and can enhance informativeness. When supervisors have access to more detailed performance information, their ratings vary more with the performance signal and become more informative. Contrary to expectations, we do not find that more prosocial supervisors are systematically more lenient when their ratings affect worker's payoffs. Instead, they are more diligent in their rating behavior, resulting in more accurate and informative performance evaluations.</div>
+<br><br>
+**The Algorithmic Assignment of Incentive Schemes**<br>
+<a href="https://sites.google.com/view/saskia-opitz/startseite">Saskia Opitz</a>, <a href="#">Dirk Sliwka</a>, <a href="https://sites.google.com/site/vogelsangtimo/">Timo Vogelsang</a>, <a href="http://www.tomzimmermann.net/">Tom Zimmermann</a><br>
+*Management Science (forthcoming)*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="assets/pdf/Assignment2023.pdf" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  PDF  </a>&nbsp;&nbsp;<a href="https://doi.org/10.1287/mnsc.2022.03362" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2024-The-Algorithmic-Assignment-of-Incentive-Schemes')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2024-The-Algorithmic-Assignment-of-Incentive-Schemes" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">The assignment of individuals with different observable characteristics to different treatments is a central question in designing optimal policies. We study this question in the context of increasing workers' performance via targeted incentives, using machine learning algorithms with worker demographics, personality traits, and preferences as input. Running two large-scale experiments we show that (i) performance can be predicted by accurately measured worker characteristics, (ii) a machine learning algorithm can detect heterogeneity in responses to different schemes, (iii) a targeted assignment of schemes to individuals increases performance significantly above the level of the single best scheme, and (iv) algorithmic assignment is more effective for workers who have a high likelihood to repeatedly interact with the employer, or who provide more consistent survey answers.</div>
+<br><br>
+
+
+## 2023
+**Closing the Gender Gap in Salary Increases: Evidence from a Field Experiment on Promoting Pay Equity**<br>
+<a href="https://sites.google.com/view/jakobalfitian">Jakob Alfitian</a>, <a href="#">Marvin Deversi</a>, <a href="#">Dirk Sliwka</a><br>
+*IZA Discussion Paper No. 16278*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="assets/pdf/PayEquity2023.pdf" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  PDF  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2023-Closing-the-Gender-Gap-in-Salary-Increases:-Evidence-from-a-Field-Experiment-on-Promoting-Pay-Equity')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2023-Closing-the-Gender-Gap-in-Salary-Increases:-Evidence-from-a-Field-Experiment-on-Promoting-Pay-Equity" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We present a natural field experiment on promoting pay equity through simple modifications to the salary review process in a large technology firm, involving 623 middle managers and 8,951 employees. Our treatments provided for a gender-blind reallocation of the salary increase budget available to middle managers aimed at pay equity, along with different variants of corresponding decision guidance. All treatments substantially reduced the gender gap in salary increases, going well beyond a purely mechanical effect of the budget reallocation. Moreover, the treatments do not appear to have undermined warranted performance differentiation in salary increases.</div>
+<br><br>
+**Information, incentives, and attention: A field experiment on the interaction of management controls**<br>
+<a href="https://www.rfh-koeln.de/forschung-projekte/institute_und_kompetenzzentren/institut_hanse/team/kathrin_manthei/index_ger.html">Kathrin Manthei</a>, <a href="#">Dirk Sliwka</a>, <a href="https://sites.google.com/site/vogelsangtimo/">Timo Vogelsang</a><br>
+*The Accounting Review*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="assets/pdf/Attention22.pdf" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  PDF  </a>&nbsp;&nbsp;<a href="https://doi.org/10.2308/TAR-2019-1065" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2023-Information,-incentives,-and-attention:-A-field-experiment-on-the-interaction-of-management-controls')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2023-Information,-incentives,-and-attention:-A-field-experiment-on-the-interaction-of-management-controls" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We study the profit effects and interplay of two core accounting practices in a field experiment in a large retail chain. In a 2 × 2 factorial design, we vary (1) whether store managers obtain decision-facilitating information on a profit metric and (2) whether they receive performance pay based on the same metric. We find that both practices increase profits significantly. In contrast to reasoning based on standard economic theory, we do not find complementarity between both interventions. Rather, we detect evidence in line with an attention-directing role of both practices: the introduction of each raises attention to the underlying objective, which induces a countervailing substitution effect.</div>
+<br><br>
+**Talking about performance or paying for it? A field experiment on performance reviews and incentives**<br>
+<a href="https://www.rfh-koeln.de/forschung-projekte/institute_und_kompetenzzentren/institut_hanse/team/kathrin_manthei/index_ger.html">Kathrin Manthei</a>, <a href="#">Dirk Sliwka</a>, <a href="https://sites.google.com/site/vogelsangtimo/">Timo Vogelsang</a><br>
+*Management Science*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="assets/pdf/Reviews2022.pdf" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  PDF  </a>&nbsp;&nbsp;<a href="https://doi.org/10.1287/mnsc.2022.4431" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2023-Talking-about-performance-or-paying-for-it?-A-field-experiment-on-performance-reviews-and-incentives')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2023-Talking-about-performance-or-paying-for-it?-A-field-experiment-on-performance-reviews-and-incentives" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We investigate the causal effect of performance pay and conversations about performance in 224 stores of a retail chain implementing a field experiment with a 2x2 factorial design. In the performance pay treatments, managers receive a bonus, which is a simple linear function of the profits achieved above a threshold value. In the performance review treatments, managers have to report their activities undertaken to increase profits in regular meetings. We find that whereas performance pay did not yield significant profit increases, performance review conversations increased profits by about 7%. However, when additionally receiving performance pay, the positive effect of performance reviews vanished. We provide evidence from surveys and meeting protocols that performance pay changes the nature of conversations, leading to a stronger self-reliance of store managers, which undermines the value of the performance reviews.</div>
+<br><br>
+
+
+## 2022
+**Motivating gig workers--evidence from a field experiment**<br>
+<a href="#">Sebastian Butschek</a>, <a href="#">Roberto González Amor</a>, <a href="https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-wirtschaftswissenschaft/wirtschaftswissenschaft/lehrstuehle/managerial-accounting/team/prof-dr-patrick-kampkoetter/">Patrick Kampkötter</a>, <a href="#">Dirk Sliwka</a><br>
+*Labour Economics*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="assets/pdf/Gigwork22.pdf" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  PDF  </a>&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.labeco.2021.102105" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2022-Motivating-gig-workers--evidence-from-a-field-experiment')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2022-Motivating-gig-workers--evidence-from-a-field-experiment" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We study the role of risk aversion and intrinsic motivation in how the payment scheme affects the performance of an online platform’s freelancers. Our RCT varied whether freelancers were only paid a pure sales commission or a lower commission combined with a fixed payment per order to provide insurance against income fluctuations. We do not find evidence for effect heterogeneity with respect to risk aversion, but sizeable heterogeneity with respect to intrinsic motivation: While – in line with standard theory – the treatment reduced performance for less intrinsically motivated workers, it increased performance among workers with a high task motivation.</div>
+<br><br>
+
+
+## 2021
+**Performance pay and prior learning—evidence from a retail chain**<br>
+<a href="https://www.rfh-koeln.de/forschung-projekte/institute_und_kompetenzzentren/institut_hanse/team/kathrin_manthei/index_ger.html">Kathrin Manthei</a>, <a href="#">Dirk Sliwka</a>, <a href="https://sites.google.com/site/vogelsangtimo/">Timo Vogelsang</a><br>
+*Management Science*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="assets/pdf/PriorLearning2020.pdf" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  PDF  </a>&nbsp;&nbsp;<a href="https://doi.org/10.1287/mnsc.2020.3825" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2021-Performance-pay-and-prior-learning—evidence-from-a-retail-chain')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2021-Performance-pay-and-prior-learning—evidence-from-a-retail-chain" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We report the results of two field experiments in a retail chain and show that the effectiveness of performance pay crucially hinges on prior job experience. Introducing sales-based performance pay for district- and later for store-managers, we find negligible average treatment effects. Based on surveys and interviews, we develop a formal model demonstrating that the effect of performance pay decreases with experience and may even vanish in the limit. We provide empirical evidence in line with this hypothesis, for instance, finding positive treatment effects (only) in stores with low job experience.</div>
+<br><br>
+**Descriptive norms and guilt aversion**<br>
+<a href="https://anastasiadanilov.de/">Anastasia Danilov</a>, <a href="http://www.kirylkhalmetski.com/">Kiryl Khalmetski</a>, <a href="#">Dirk Sliwka</a><br>
+*Journal of Economic Behavior & Organization*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="assets/pdf/NormsGuilt2021.pdf" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  PDF  </a>&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.jebo.2021.09.002" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2021-Descriptive-norms-and-guilt-aversion')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2021-Descriptive-norms-and-guilt-aversion" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">It has been argued that guilt aversion (the desire to meet others' expectations) and the social norm compliance (the desire to act similarly to other individuals in the same situation) are important drivers of human behavior. However, as we show in a theoretical model, these two motives are empirically indistinguishable when only one signal (either the expectation of a person affected by the choice or a signal about the descriptive norm) is revealed as each of these signals transmit information on the other benchmark. We address this problem by running an experiment in which signals for both benchmarks are revealed simultaneously. We find that both types of information affect dictator transfers in a one-shot game, yet the information about the behavior of others has a stronger effect than the disclosed recipient’s expectation. The effect of the recipient’s expectation is non-monotonic and becomes negative for very high expectations. We provide further evidence for the importance of guilt aversion in a second experiment where we display the recipient's expectation and the expectation of a randomly picked recipient of another dictator.</div>
+<br><br>
+**Employee identification and wages--on the economics of “Affective Commitment”**<br>
+<a href="https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-wirtschaftswissenschaft/wirtschaftswissenschaft/lehrstuehle/managerial-accounting/team/prof-dr-patrick-kampkoetter/">Patrick Kampkötter</a>, <a href="#">Lea M Petters</a>, <a href="#">Dirk Sliwka</a><br>
+*Journal of Economic Behavior & Organization*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="assets/pdf/affectiveCommitment21.pdf" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  PDF  </a>&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.jebo.2021.05.036" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2021-Employee-identification-and-wages--on-the-economics-of-“Affective-Commitment”')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2021-Employee-identification-and-wages--on-the-economics-of-“Affective-Commitment”" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We study the role of employees’ identification to the employer for wage growth. We first show in a formal model that identification implies countervailing effects: Employees with higher identification are more valuable as they exert higher efforts, but have weaker bargaining positions, and less outside options as they search less. Analyzing a novel representative panel dataset, we find that stronger identification is associated with less job search and turnover. Workers that have higher identification exhibit significantly lower wage growth. In line with the model, this pattern tends to be reversed conditional on having obtained an external offer.</div>
+<br><br>
+
+
+## 2020
+**Prosocial managers, employee motivation, and the creation of shareholder value**<br>
+<a href="https://sites.google.com/site/agnekajackaite/">Agne Kajackaite</a>, <a href="#">Dirk Sliwka</a><br>
+*Journal of Economic Behavior & Organization*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="assets/pdf/Prosocial2020.pdf" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  PDF  </a>&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.jebo.2020.02.021" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2020-Prosocial-managers,-employee-motivation,-and-the-creation-of-shareholder-value')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2020-Prosocial-managers,-employee-motivation,-and-the-creation-of-shareholder-value" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We argue that when contracts are incomplete it is not necessarily in the interest even of money maximizing shareholders to pick a manager who intends to maximize shareholder value. We first show in a formal model, as well as using observational data from over 900 firms and in a series of lab experiments that choosing a manager who has a preference to spend resources for social causes can increase employee motivation. In turn, losses in shareholder value due to investments in social causes may be offset by gains in employees’ performance. The selection of a manager with social interests serves as a commitment device that raises employee motivation.</div>
+<br><br>
+**Bonuses and performance evaluations**<br>
+<a href="#">Dirk Sliwka</a><br>
+*IZA World of Labor*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://wol.iza.org/articles/bonuses-and-performance-evaluations/long" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<br><br>
+**Bonus Plans, Subjective Performance Evaluations, and Career Concerns**<br>
+<a href="#">Dirk Sliwka</a><br>
+*Handbook of Labor, Human Resources and Population Economics*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://link.springer.com/content/pdf/10.1007/978-3-319-57365-6_119-1.pdf" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2020-Bonus-Plans,-Subjective-Performance-Evaluations,-and-Career-Concerns')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2020-Bonus-Plans,-Subjective-Performance-Evaluations,-and-Career-Concerns" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">This article gives a selective review on the (behavioral) economics of incentives in organizations. It starts with the analysis of a simple principal agent model. This model is then step-by-step extended in several domains to incorporate specific behavioral mechanisms that affect how people respond to incentives. Evidence from lab and field experiments as well as firm-level field studies with observational data are discussed. Topics covered are the moral hazard problem and the role of intrinsic motivation, the trade-off between risk and incentives, fairness and reciprocity, career and image concerns, detrimental effects of bonuses, and subjective performance evaluations.</div>
+<br><br>
+
+
+## 2019
+**Disguising lies—Image concerns and partial lying in cheating games**<br>
+<a href="http://www.kirylkhalmetski.com/">Kiryl Khalmetski</a>, <a href="#">Dirk Sliwka</a><br>
+*American Economic Journal: Microeconomics*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="assets/pdf/disguising2019.pdf" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  PDF  </a>&nbsp;&nbsp;<a href="https://doi.org/10.1257/mic.20170193" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2019-Disguising-lies—Image-concerns-and-partial-lying-in-cheating-games')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2019-Disguising-lies—Image-concerns-and-partial-lying-in-cheating-games" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We study equilibrium reporting behavior in cheating games when agents have a fixed cost of lying and image concerns not to be perceived as a liar. We show that equilibria naturally arise in which agents with low costs of lying randomize among a set of the highest potential reports. Such equilibria induce a distribution of reports in line with observed experimental patterns. We also find that higher image concerns lead to an increase in the range of reported lies, while the effect of the fixed cost of lying is the opposite.</div>
+<br><br>
+**Multitasking and subjective performance evaluations: Theory and evidence from a field experiment in a bank**<br>
+<a href="https://www.rfh-koeln.de/forschung-projekte/institute_und_kompetenzzentren/institut_hanse/team/kathrin_manthei/index_ger.html">Kathrin Manthei</a>, <a href="#">Dirk Sliwka</a><br>
+*Management Science*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="assets/pdf/SubjectiveMulti2019.pdf" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  PDF  </a>&nbsp;&nbsp;<a href="https://doi.org/10.1287/mnsc.2018.3206" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2019-Multitasking-and-subjective-performance-evaluations:-Theory-and-evidence-from-a-field-experiment-in-a-bank')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2019-Multitasking-and-subjective-performance-evaluations:-Theory-and-evidence-from-a-field-experiment-in-a-bank" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We study the incentive effects of granting supervisors access to objective performance information when agents work on multiple tasks. We first analyze a formal model showing that incentives are lower powered when supervisors have no access to objective measures but assess performance subjectively by gathering information. This incentive loss is more pronounced when the span of control is larger and incentives are distorted toward more profitable tasks. We then investigate a field experiment conducted in a bank. In the treatment group, managers obtained access to objective performance measures, which raised efforts and profits. We find that the effects are driven by larger branches and lower margin products.</div>
+<br><br>
+
+
+## 2018
+**Confidence in knowledge or confidence in the ability to learn: An experiment on the causal effects of beliefs on motivation**<br>
+<a href="http://mirafischer.net/">Mira Fischer</a>, <a href="#">Dirk Sliwka</a><br>
+*Games and Economic Behavior*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="assets/pdf/Confidence2020.pdf" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  PDF  </a>&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.geb.2018.02.005" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2018-Confidence-in-knowledge-or-confidence-in-the-ability-to-learn:-An-experiment-on-the-causal-effects-of-beliefs-on-motivation')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2018-Confidence-in-knowledge-or-confidence-in-the-ability-to-learn:-An-experiment-on-the-causal-effects-of-beliefs-on-motivation" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">Previous research has shown that feedback about past performance has ambiguous effects on subsequent performance. We argue that feedback affects beliefs in different dimensions – namely beliefs about the level of human capital and beliefs about the ability to learn – and this may explain some of the ambiguous effects. We experimentally study the causal effects of an exogenously administered change in beliefs in both of these dimensions on the motivation to learn. We find that confidence in the ability to learn raises incentives, while confidence in the level of human capital lowers incentives for individuals with high levels of human capital.</div>
+<br><br>
+**More dispersion, higher bonuses? On differentiation in subjective performance evaluations**<br>
+<a href="https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-wirtschaftswissenschaft/wirtschaftswissenschaft/lehrstuehle/managerial-accounting/team/prof-dr-patrick-kampkoetter/">Patrick Kampkötter</a>, <a href="#">Dirk Sliwka</a><br>
+*Journal of Labor Economics*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="assets/pdf/DispersionSubjective2018.pdf" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  PDF  </a>&nbsp;&nbsp;<a href="https://doi.org/10.1086/694588" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2018-More-dispersion,-higher-bonuses?-On-differentiation-in-subjective-performance-evaluations')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2018-More-dispersion,-higher-bonuses?-On-differentiation-in-subjective-performance-evaluations" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We investigate the claim that supervisors do not differentiate enough between high- and low-performing employees when evaluating performance. In a first step, this claim is illustrated in a formal model showing that rating compression reduces performance and subsequent bonus payments. The effect depends on the precision of performance information and may be reversed when cooperation is important. We then investigate panel data spanning different banks and find that stronger differentiation indeed increases subsequent bonus payments. The effect tends to be larger for larger spans of control and at higher hierarchical levels but is reversed at the lowest levels.</div>
+<br><br>
+**The contribution of managers to organizational success: Evidence from German soccer**<br>
+<a href="https://sites.google.com/view/muehlheusser">Gerd Muehlheusser</a>, <a href="#">Sandra Schneemann</a>, <a href="#">Dirk Sliwka</a>, <a href="#">Niklas Wallmeier</a><br>
+*Journal of Sports Economics*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="assets/pdf/Coaches2014.pdf" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  PDF  </a>&nbsp;&nbsp;<a href="https://doi.org/10.1177/1527002516674760" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2018-The-contribution-of-managers-to-organizational-success:-Evidence-from-German-soccer')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2018-The-contribution-of-managers-to-organizational-success:-Evidence-from-German-soccer" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We study the impact of managers on the success of professional soccer teams using data from the German Bundesliga, where we are exploiting the high turnover rate of managers between teams to disentangle the managers’ contributions. Teams employing a manager from the top of the ability distribution gain on average considerably more points than those employing a manager from the bottom. Moreover, estimated abilities have significant predictive power for future performance. Managers also affect teams’ playing style. Finally, teams whose manager has been a former professional player perform worse on average compared to managers without a professional player career.</div>
+<br><br>
+**Job rotation and employee performance--evidence from a longitudinal study in the financial services industry**<br>
+<a href="https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-wirtschaftswissenschaft/wirtschaftswissenschaft/lehrstuehle/managerial-accounting/team/prof-dr-patrick-kampkoetter/">Patrick Kampkötter</a>, <a href="https://www.org.rwth-aachen.de/cms/org/Der-Lehrstuhl/~qxuo/Team/">Christine Harbring</a>, <a href="#">Dirk Sliwka</a><br>
+*The International Journal of Human Resource Management*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1080/09585192.2016.1209227" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2018-Job-rotation-and-employee-performance--evidence-from-a-longitudinal-study-in-the-financial-services-industry')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2018-Job-rotation-and-employee-performance--evidence-from-a-longitudinal-study-in-the-financial-services-industry" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">Job rotation, i.e. a lateral transfer of an employee between jobs within a company, is frequently used as a means to develop employees, learn about their abilities as well as to motivate them. We investigate the determinants and performance effects of job rotation empirically by analyzing a large panel data-set covering the German banking and financial services sector. In particular, we study (i) how prior individual performance affects the propensity to rotate and (ii) how performance changes after the rotation. We find that while both, low- and high-performers rotate, lateral moves are more frequent among low performers. However, those having been rotated between jobs achieve a higher performance in subsequent years as compared to other non-rotating employees in a comparable position. Interestingly, this effect is driven by high performers, whereas for low performers, we find no significant relationship between job rotation and future performance. The results thus suggest that firms should focus their job rotation programs on high performers and should not expect that low performers achieve performance gains when being rotated to a different function.</div>
+<br><br>
+
+
+## 2017
+**Wage increases and the dynamics of reciprocity**<br>
+<a href="#">Dirk Sliwka</a>, <a href="https://sites.google.com/view/peterwerner/home">Peter Werner</a><br>
+*Journal of Labor Economics*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="assets/pdf/WageIncRec2016.pdf" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  PDF  </a>&nbsp;&nbsp;<a href="https://doi.org/10.1086/689189" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2017-Wage-increases-and-the-dynamics-of-reciprocity')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2017-Wage-increases-and-the-dynamics-of-reciprocity" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We investigate how workers’ performance is affected by the timing of wages in a real-effort experiment. In all treatments, agents earn the same wage sum, but wage increases are distributed differently over time. We find that agents work harder under increasing wage profiles if they do not know these profiles in advance. A profile that continuously increases wages by small amounts raises performance by about 15% relative to a constant wage. The effort reactions can be organized by a model in which agents reciprocally respond to wage impulses, comparing wages to an adaptive reference standard determined by the previous wage.</div>
+<br><br>
+**Can contracts signal social norms? Experimental evidence**<br>
+<a href="https://anastasiadanilov.de/">Anastasia Danilov</a>, <a href="#">Dirk Sliwka</a><br>
+*Management Science*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="assets/pdf/contractNorms.pdf" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  PDF  </a>&nbsp;&nbsp;<a href="https://doi.org/10.1287/mnsc.2015.2336" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2017-Can-contracts-signal-social-norms?-Experimental-evidence')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2017-Can-contracts-signal-social-norms?-Experimental-evidence" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We investigate whether incentive schemes signal social norms and thus affect behavior beyond their direct economic consequences. A one-shot principal–agent experiment is studied where prior to contract choice principals are informed about the past actions of other agents and thus have more information about norms of behavior. Compared with a setting in which principals are uninformed, agents exert substantially higher effort under a fixed wage contract when they are aware that an informed principal chose this contract. The informed principal’s choice apparently signals a norm not to exploit trust, which leads to more trustworthy behavior. This mechanism’s robustness is explored in further experiments.</div>
+<br><br>
+**Social responsibility and incentives in the lab: Why do agents exert more effort when principals donate?**<br>
+<a href="https://sites.google.com/site/agnekajackaite/">Agne Kajackaite</a>, <a href="#">Dirk Sliwka</a><br>
+*Journal of Economic Behavior & Organization*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1016/j.jebo.2017.08.013" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2017-Social-responsibility-and-incentives-in-the-lab:-Why-do-agents-exert-more-effort-when-principals-donate?')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2017-Social-responsibility-and-incentives-in-the-lab:-Why-do-agents-exert-more-effort-when-principals-donate?" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We test experimentally whether and why principals’ charitable giving affects agents’ efforts. We study a simple principal-agent setting in the lab, where a principal decides whether to donate a fixed amount to a charity and, in the next step, an agent chooses his effort. We argue there are three potential mechanisms that can trigger a higher effort after a donation in this setting: distributional concerns, reciprocal altruism, and shared warm glow utility. We find agents choose higher efforts when principals donate. With respect to the mechanisms, we find evidence for reciprocal altruism and distributional concerns as drivers of agents’ performance reactions in the lab.</div>
+<br><br>
+**People Analytics--Personaldaten als Erfolgsfaktor**<br>
+<a href="https://www.bwl.uni-mannheim.de/biemann/team/lehrstuhl/prof-dr-torsten-biemann/">Torsten Biemann</a>, <a href="#">Florian Englmaier</a>, <a href="#">Dirk Sliwka</a>, <a href="#">Ingo Weller</a><br>
+*Personal quarterly: Wissenschaftsjournal für die Personalpraxis*<br>
+<div style="margin-bottom: 2px;"></div>
+<br><br>
+
+
+## 2016
+**How to hire helpers? Evidence from a field experiment**<br>
+<a href="#">Julian Conrads</a>, <a href="https://wiso.uni-koeln.de/de/forschung/find-an-expert/expertinnen/prof-dr-bernd-irlenbusch">Bernd Irlenbusch</a>, <a href="#">Tommaso Reggiani</a>, <a href="#">Rainer Michael Rilke</a>, <a href="#">Dirk Sliwka</a><br>
+*Experimental Economics*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1007/s10683-015-9455-y" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2016-How-to-hire-helpers?-Evidence-from-a-field-experiment')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2016-How-to-hire-helpers?-Evidence-from-a-field-experiment" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">How to hire voluntary helpers? We shed new light on this question by reporting a field experiment in which we invited 2859 students to help at the ‘ESA Europe 2012’ conference. Invitation emails varied non-monetary and monetary incentives to convince subjects to offer help. Students could apply to help at the conference and, if so, also specify the working time they wanted to provide. Just asking subjects to volunteer or offering them a certificate turned out to be significantly more motivating than mentioning that the regular conference fee would be waived for helpers. By means of an online-survey experiment, we find that intrinsic motivation to help is likely to have been crowded out by mentioning the waived fee. Increasing monetary incentives by varying hourly wages of 1, 5, and 10 Euros shows positive effects on the number of applications and on the working time offered. However, when comparing these results with treatments without any monetary compensation, the number of applications could not be increased by offering money and may even be reduced.</div>
+<br><br>
+**The complementary use of experiments and field data to evaluate management practices: The case of subjective performance evaluations**<br>
+<a href="https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-wirtschaftswissenschaft/wirtschaftswissenschaft/lehrstuehle/managerial-accounting/team/prof-dr-patrick-kampkoetter/">Patrick Kampkötter</a>, <a href="#">Dirk Sliwka</a><br>
+*Journal of Institutional and Theoretical Economics*<br>
+<div style="margin-bottom: 2px;"></div>
+<br><br>
+**Heterogeneity, inequity aversion, and group performance**<br>
+<a href="https://felixkoelle.weebly.com/">Felix Kölle</a>, <a href="#">Dirk Sliwka</a>, <a href="#">Nannan Zhou</a><br>
+*Social Choice and Welfare*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1007/s00355-015-0912-5" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2016-Heterogeneity,-inequity-aversion,-and-group-performance')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2016-Heterogeneity,-inequity-aversion,-and-group-performance" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We investigate the effects of inequality in wealth on the incentives to contribute to a group output when agents are inequity averse and may differ in ability. We show that equality may lead to a reduction of contributions below levels generated by purely selfish agents. But introducing inequality motivates more productive agents to exert higher efforts and help the group to coordinate on equilibria with less free-riding. As a result, less able agents may benefit from initially disadvantageous inequality. Moreover, the more inequity averse the agents, the more inequality should be imposed even by an egalitarian social planner.</div>
+<br><br>
+**The impact of managerial change on performance: The role of team heterogeneity**<br>
+<a href="https://sites.google.com/view/muehlheusser">Gerd Muehlheusser</a>, <a href="#">Sandra Schneemann</a>, <a href="#">Dirk Sliwka</a><br>
+*Economic Inquiry*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href=" https://doi.org/10.1111/ecin.12285" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2016-The-impact-of-managerial-change-on-performance:-The-role-of-team-heterogeneity')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2016-The-impact-of-managerial-change-on-performance:-The-role-of-team-heterogeneity" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">When a key responsibility of a manager is to allocate more or less attractive tasks, subordinates have an incentive to work hard and demonstrate their talents. As a new manager is less well informed, management dismissals reinvigorate this tournament competition—but only in sufficiently homogeneous teams. We investigate this hypothesis using a large dataset on dismissals of soccer coaches, whose main task is indeed the selection of players. We find that dismissals enhance performance (only) in homogeneous teams. Moreover, we show that there is typically a negative selection bias when evaluating succession effects, which reconciles previous contradictory findings.</div>
+<br><br>
+**Measuring the use of human resources practices and employee attitudes: The linked personnel panel**<br>
+<a href="https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-wirtschaftswissenschaft/wirtschaftswissenschaft/lehrstuehle/managerial-accounting/team/prof-dr-patrick-kampkoetter/">Patrick Kampkötter</a>, <a href="#">Jens Mohrenweiser</a>, <a href="#">Dirk Sliwka</a>, <a href="#">Susanne Steffes</a>, <a href="#">Stefanie Wolter</a><br>
+*No Journal*<br>
+<div style="margin-bottom: 2px;"></div>
+<br><br>
+
+
+## 2015
+**Bonus payments and reference point violations**<br>
+<a href="https://ockenfels.uni-koeln.de/de/">Axel Ockenfels</a>, <a href="#">Dirk Sliwka</a>, <a href="https://sites.google.com/view/peterwerner/home">Peter Werner</a><br>
+*Management Science*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1287/mnsc.2014.1949" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2015-Bonus-payments-and-reference-point-violations')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2015-Bonus-payments-and-reference-point-violations" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We investigate how bonus payments affect the satisfaction and performance of managers in a large multinational company. We find that falling behind a natural reference standard for a fair bonus payment (a “reference point violation”) reduces satisfaction and subsequent performance. The effects are mitigated if information about one’s relative standing toward the reference point is withheld. A model and a laboratory experiment provide complementary insights and additional robustness checks.</div>
+<br><br>
+**Management Changes, Reputation, and Big Bath—Earnings Management**<br>
+<a href="https://www.ibu.kit.edu/1967_1975.php">Petra Nieken</a>, <a href="#">Dirk Sliwka</a><br>
+*Journal of Economics & Management Strategy*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1111/jems.12101" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2015-Management-Changes,-Reputation,-and-Big-Bath—Earnings-Management')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2015-Management-Changes,-Reputation,-and-Big-Bath—Earnings-Management" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We study the effects of managerial turnover on earnings management activities in a model in which managers care about their external reputation. We develop an overlapping generations model showing that both outgoing and incoming managers bias reported earnings such that typically very low returns are reported in the first period after a manager has been replaced. Outgoing managers shift earnings forward to their last period in office as they will not benefit from earnings realized after that. Incoming managers can have an incentive to shift earnings to the second period in office as reported earnings will, immediately after a management change, only be partly attributed to their own ability. Deferred compensation can reduce incentives for earnings management.</div>
+<br><br>
+**Timing of kindness--Evidence from a field experiment**<br>
+<a href="https://ockenfels.uni-koeln.de/de/">Axel Ockenfels</a>, <a href="#">Dirk Sliwka</a>, <a href="https://sites.google.com/view/peterwerner/home">Peter Werner</a><br>
+*Journal of Economic Behavior & Organization*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1016/j.jebo.2014.12.003" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2015-Timing-of-kindness--Evidence-from-a-field-experiment')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2015-Timing-of-kindness--Evidence-from-a-field-experiment" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We conduct a field experiment in a naturally occurring labor environment and track whether the performance of workers responds to unexpected wage increases. Specifically, we investigate how the timing of wage increases affects efforts. We find that workers’ performance is substantially higher for the same total wage when their wage is increased in two steps as opposed to a single increase at the outset. Moreover, workers are more honest and are more willing to do voluntary extra work after surprising wage increases compared to a baseline condition without increases.</div>
+<br><br>
+**Variable Vergütung in Deutschland--ein Überblick**<br>
+<a href="https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-wirtschaftswissenschaft/wirtschaftswissenschaft/lehrstuehle/managerial-accounting/team/prof-dr-patrick-kampkoetter/">Patrick Kampkötter</a>, <a href="#">Katharina Laske</a>, <a href="#">Dirk Sliwka</a><br>
+*Personal Quarterly*<br>
+<div style="margin-bottom: 2px;"></div>
+<br><br>
+
+
+## 2014
+**Wage premia for newly hired employees**<br>
+<a href="https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-wirtschaftswissenschaft/wirtschaftswissenschaft/lehrstuehle/managerial-accounting/team/prof-dr-patrick-kampkoetter/">Patrick Kampkötter</a>, <a href="#">Dirk Sliwka</a><br>
+*Labour Economics*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1016/j.labeco.2014.09.001" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2014-Wage-premia-for-newly-hired-employees')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2014-Wage-premia-for-newly-hired-employees" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We investigate wage differences between newly hired and incumbent employees in identical functions using detailed personnel data from a large number of banks. We first show in a formal model of job switching that (i) incumbents earn less than new recruits when human capital is mostly general but (ii) the opposite is the case if specific human capital is sufficiently important. In the empirical analysis we find that, on average, new hires earn more than comparable incumbents but – using a novel measure for the importance of specific human capital – these wage premia indeed strongly depend on human capital specificity.</div>
+<br><br>
+
+
+## 2013
+**Performance appraisals and the impact of forced distribution—an experimental investigation**<br>
+<a href="#">Johannes Berger</a>, <a href="https://www.org.rwth-aachen.de/cms/org/Der-Lehrstuhl/~qxuo/Team/">Christine Harbring</a>, <a href="#">Dirk Sliwka</a><br>
+*Management Science*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1287/mnsc.1120.1624" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2013-Performance-appraisals-and-the-impact-of-forced-distribution—an-experimental-investigation')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2013-Performance-appraisals-and-the-impact-of-forced-distribution—an-experimental-investigation" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">A real-effort experiment is investigated in which supervisors have to rate the performance of individual workers who in turn receive a bonus payment based on these ratings. We compare a baseline treatment in which supervisors are not restricted in their rating behavior to a forced distribution system in which they have to assign differentiated grades. We find that productivity is significantly higher under a forced distribution by about 6% to 12%. However, the productivity effects are less clear cut when participants have prior experience with the baseline condition. Moreover, a forced distribution becomes detrimental when workers have access to a simple option to sabotage each other.</div>
+<br><br>
+**Social ties and subjective performance evaluations: an empirical investigation**<br>
+<a href="#">Kathrin Breuer</a>, <a href="https://www.ibu.kit.edu/1967_1975.php">Petra Nieken</a>, <a href="#">Dirk Sliwka</a><br>
+*Review of Managerial Science*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1007/s11846-011-0076-3" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2013-Social-ties-and-subjective-performance-evaluations:-an-empirical-investigation')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2013-Social-ties-and-subjective-performance-evaluations:-an-empirical-investigation" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We empirically investigate possible distortions in subjective performance evaluations. A key hypothesis is that evaluations are more upward biased the closer the social ties between supervisor and appraised employee. We test this hypothesis with a company data set from a call center organization which contains not only subjective assessments but also several more objective measures of performance. Controlling for these performance measures, we find strong evidence that evaluations are upwards biased in smaller teams and some evidence that supervisors give better ratings to employees they themselves have evaluated before.</div>
+<br><br>
+**The dark side of team incentives: Experimental evidence on advice quality from financial service professionals**<br>
+<a href="https://anastasiadanilov.de/">Anastasia Danilov</a>, <a href="https://www.bwl.uni-mannheim.de/biemann/team/lehrstuhl/prof-dr-torsten-biemann/">Torsten Biemann</a>, <a href="#">Thorn Kring</a>, <a href="#">Dirk Sliwka</a><br>
+*Journal of Economic Behavior & Organization*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1016/j.jebo.2013.03.012" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2013-The-dark-side-of-team-incentives:-Experimental-evidence-on-advice-quality-from-financial-service-professionals')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2013-The-dark-side-of-team-incentives:-Experimental-evidence-on-advice-quality-from-financial-service-professionals" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">In an experiment with professionals from the financial services sector, we investigate the impact of a team incentive scheme on the recommendation quality of investment products when advisors benefit from advising lower quality products. Experimental results reveal that, when group affiliation is strong, inferior products are recommended significantly more often under team incentives than under individual incentives.</div>
+<br><br>
+**When higher prizes lead to lower efforts—The impact of favoritism in tournaments**<br>
+<a href="#">Claus Herbertz</a>, <a href="#">Dirk Sliwka</a><br>
+*Economics Letters*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1016/j.econlet.2013.03.015" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2013-When-higher-prizes-lead-to-lower-efforts—The-impact-of-favoritism-in-tournaments')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2013-When-higher-prizes-lead-to-lower-efforts—The-impact-of-favoritism-in-tournaments" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We investigate the relationship between tournament prices and effort choices in the presence of favoritism. High tournament prizes can decrease agents’ effort supply when the choice of the winner is not perfectly objective but affected to some extent by personal preferences of an evaluator.</div>
+<br><br>
+**Trotz subjektiver Leistungsbeurteilung zu aussagekräftigen Ergebnissen kommen**<br>
+<a href="https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-wirtschaftswissenschaft/wirtschaftswissenschaft/lehrstuehle/managerial-accounting/team/prof-dr-patrick-kampkoetter/">Patrick Kampkötter</a>, <a href="#">Dirk Sliwka</a><br>
+*Personal Quarterly*<br>
+<div style="margin-bottom: 2px;"></div>
+<br><br>
+**Karriere in Teilzeit--Ein schwieriges Unterfangen mit „Klebeeffekt”**<br>
+<a href="#">Isabella Cetnarowski</a>, <a href="#">Kathrin Breuer</a>, <a href="#">Dirk Sliwka</a><br>
+*Personal Quarterly*<br>
+<div style="margin-bottom: 2px;"></div>
+<br><br>
+
+
+## 2012
+**Auf gesicherte empirische Fakten setzen, statt auf Mythen vertrauen**<br>
+<a href="https://www.bwl.uni-mannheim.de/biemann/team/lehrstuhl/prof-dr-torsten-biemann/">Torsten Biemann</a>, <a href="#">Dirk Sliwka</a>, <a href="#">Heiko Weckmüller</a><br>
+*Personal Quarterly*<br>
+<div style="margin-bottom: 2px;"></div>
+<br><br>
+
+
+## 2011
+**Finanzielle Anreize und Produktivität**<br>
+<a href="https://www.bwl.uni-mannheim.de/biemann/team/lehrstuhl/prof-dr-torsten-biemann/">Torsten Biemann</a>, <a href="#">Dirk Sliwka</a>, <a href="#">Heiko Weckmüller</a><br>
+*Personal Quarterly*<br>
+<div style="margin-bottom: 2px;"></div>
+<br><br>
+**Universities as stakeholders in their students' careers: On the benefits of graduate taxes to finance higher education**<br>
+<a href="#">Tom McKenzie</a>, <a href="#">Dirk Sliwka</a><br>
+*Journal of Institutional and Theoretical Economics*<br>
+<div style="margin-bottom: 2px;"></div>
+<br><br>
+**Vergütung-Bankgehälter in der Krise—ein Ländervergleich**<br>
+<a href="#">Marc Muntermann</a>, <a href="#">Dirk Sliwka</a>, <a href="https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-wirtschaftswissenschaft/wirtschaftswissenschaft/lehrstuehle/managerial-accounting/team/prof-dr-patrick-kampkoetter/">Patrick Kampkötter</a><br>
+*Bank und Markt*<br>
+<div style="margin-bottom: 2px;"></div>
+<br><br>
+
+
+## 2010
+**Evidence on performance pay and risk aversion**<br>
+<a href="https://www.hrm.rwth-aachen.de/cms/HRM/Der-Lehrstuhl/~stei/Team/lidx/1/">Christian Grund</a>, <a href="#">Dirk Sliwka</a><br>
+*Economics Letters*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1016/j.econlet.2009.09.005" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2010-Evidence-on-performance-pay-and-risk-aversion')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2010-Evidence-on-performance-pay-and-risk-aversion" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">Making use of a unique representative data set, we find clear evidence that risk aversion has a highly significant and substantial negative impact on the probability that an employee's pay is performance contingent, which confirms the well known risk-incentive trade-off.</div>
+<br><br>
+**Risk-taking tournaments--Theory and experimental evidence**<br>
+<a href="https://www.ibu.kit.edu/1967_1975.php">Petra Nieken</a>, <a href="#">Dirk Sliwka</a><br>
+*Journal of Economic Psychology*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1016/j.joep.2009.03.009" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2010-Risk-taking-tournaments--Theory-and-experimental-evidence')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2010-Risk-taking-tournaments--Theory-and-experimental-evidence" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We study risk-taking behavior in a simple two person tournament in a theoretical model as well as a laboratory experiment. First, a model is analyzed in which two agents simultaneously decide between a risky and a safe strategy and we allow for all possible degrees of correlation between the outcomes of the risky strategies. We show that risk-taking behavior crucially depends on this correlation as well as on the size of a potential lead of one of the contestants. We find that the experimental subjects acted mostly quite well in line with the derived theoretical predictions.</div>
+<br><br>
+**The Analysis of Incentives in Firms: An Experimental Approach**<br>
+<a href="https://www.org.rwth-aachen.de/cms/org/Der-Lehrstuhl/~qxuo/Team/">Christine Harbring</a>, <a href="https://wiso.uni-koeln.de/de/forschung/find-an-expert/expertinnen/prof-dr-bernd-irlenbusch">Bernd Irlenbusch</a>, <a href="#">Dirk Sliwka</a>, <a href="#">Matthias Sutter</a><br>
+*The Selten School of Behavioral Economics: A Collection of Essays in Honor of Reinhard Selten*<br>
+<div style="margin-bottom: 2px;"></div>
+<br><br>
+**Finanzwirtschaft: Bankmanagement: Wandel im Vergütungsmix**<br>
+<a href="#">Dirk Sliwka</a>, <a href="https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-wirtschaftswissenschaft/wirtschaftswissenschaft/lehrstuehle/managerial-accounting/team/prof-dr-patrick-kampkoetter/">Patrick Kampkötter</a>, <a href="#">Martin Emmerich</a>, <a href="#">Andreas Enneking</a><br>
+*Die Bank*<br>
+<div style="margin-bottom: 2px;"></div>
+<br><br>
+
+
+## 2009
+**Should you allow your employee to become your competitor? on noncompete agreements in employment contracts**<br>
+<a href="#">Matthias Kräkel</a>, <a href="#">Dirk Sliwka</a><br>
+*International Economic Review*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1111/j.1468-2354.2008.00525.x" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2009-Should-you-allow-your-employee-to-become-your-competitor?-on-noncompete-agreements-in-employment-contracts')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2009-Should-you-allow-your-employee-to-become-your-competitor?-on-noncompete-agreements-in-employment-contracts" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We discuss a principal–agent model in which the principal has the opportunity to include a noncompete agreement in the employment contract. We show that not imposing such an agreement can be beneficial for the principal, as the possibility to leave the firm generates implicit incentives for the agent. The principal prefers to impose such a clause if and only if the value created is sufficiently small relative to the agent's outside option. If the principal can use an option contract for retaining the agent, she will never prefer a strict noncompete agreement.</div>
+<br><br>
+**The anatomy of performance appraisals in Germany**<br>
+<a href="https://www.hrm.rwth-aachen.de/cms/HRM/Der-Lehrstuhl/~stei/Team/lidx/1/">Christian Grund</a>, <a href="#">Dirk Sliwka</a><br>
+*The International Journal of Human Resource Management*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1080/09585190903175613" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2009-The-anatomy-of-performance-appraisals-in-Germany')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2009-The-anatomy-of-performance-appraisals-in-Germany" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We investigate the use of performance appraisal (PA) in German firms. First, we derive hypotheses on individual and job-based determinants of PA usage. Based on a representative German data set on individual employees, we test these hypotheses and also explore the impact of PA on performance pay and further career prospects. The results include that PA is positively linked to an individual's willingness to take risks. The performance of older employees and woman is evaluated less often. Furthermore, larger firms evaluate the performance of their employees more. We find evidence for a non-monotonic relation between the hierarchical level and usage of performance appraisal: The performance of employees with very high or very low responsibilities is assessed less often.</div>
+<br><br>
+**Zwischen Mythos und Wahrheit**<br>
+<a href="#">Dirk Sliwka</a>, <a href="#">Martin Emmerich</a>, <a href="https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-wirtschaftswissenschaft/wirtschaftswissenschaft/lehrstuehle/managerial-accounting/team/prof-dr-patrick-kampkoetter/">Patrick Kampkötter</a><br>
+*Personal*<br>
+<div style="margin-bottom: 2px;"></div>
+<br><br>
+
+
+## 2008
+**Transparency, inequity aversion, and the dynamics of peer pressure in teams: Theory and evidence**<br>
+<a href="#">Alwine Mohnen</a>, <a href="#">Kathrin Pokorny</a>, <a href="#">Dirk Sliwka</a><br>
+*Journal of Labor Economics*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1086/591116" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2008-Transparency,-inequity-aversion,-and-the-dynamics-of-peer-pressure-in-teams:-Theory-and-evidence')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2008-Transparency,-inequity-aversion,-and-the-dynamics-of-peer-pressure-in-teams:-Theory-and-evidence" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We provide an explanation for peer pressure in teams based on inequity aversion. Analyzing a two‐period model with two agents, we find that the effect of inequity aversion strongly depends on the information structure. When contributions are unobservable, agents act as though they were purely selfish. However, when contributions are made transparent at an interim stage, agents exert higher efforts in the first period and adjust their efforts according to the interim information in the second period. This form of peer pressure reduces free riding, and thus more efficient outcomes are attained. The results are confirmed in a real effort experiment.</div>
+<br><br>
+**Variable Vergutung in der Unternehmenspraxis**<br>
+<a href="#">Martin Emmerich</a>, <a href="#">Patrick Kampkotter</a>, <a href="#">Dirk Sliwka</a><br>
+*Die Bank*<br>
+<div style="margin-bottom: 2px;"></div>
+<br><br>
+
+
+## 2007
+**Trust as a signal of a social norm and the hidden costs of incentive schemes**<br>
+<a href="#">Dirk Sliwka</a><br>
+*American Economic Review*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="assets/pdf/sliwka-2007-trust.pdf" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  PDF  </a>&nbsp;&nbsp;<a href="https://www.aeaweb.org/articles?id=10.1257/aer.97.3.999" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2007-Trust-as-a-signal-of-a-social-norm-and-the-hidden-costs-of-incentive-schemes')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2007-Trust-as-a-signal-of-a-social-norm-and-the-hidden-costs-of-incentive-schemes" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">An explanation for motivation crowding-out phenomena is developed in a social preferences framework. Besides selfish and fair or altruistic types, a third type of agent is introduced. These "conformists" have social preferences if they believe that sufficiently many of the others do as well. When there is asymmetric information about the distribution of preferences (the "social norm"), the incentive scheme offered or autonomy granted can reveal a principal's beliefs about that norm. High-powered incentives may crowd out motivation as pessimism about the norm is conveyed. But by choosing fixed wages or granting autonomy, trust in a favorable norm may be signaled.</div>
+<br><br>
+**Managerial Turnover and Strategic Change**<br>
+<a href="#">Dirk Sliwka</a><br>
+*Management Science*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1287/mnsc.1070.0728" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2007-Managerial-Turnover-and-Strategic-Change')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2007-Managerial-Turnover-and-Strategic-Change" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">The connection between strategic change and managerial turnover is studied within a model where managers decide on a firm's strategy. Managers as well as firm owners care for the long-term success of a company, but managers are also interested in their own reputation. Due to reputational concerns, managers are reluctant to alter strategic decisions they themselves made in the past even when internal accounting information indicates that they should do so. It is shown that it may well be optimal in some cases to dismiss managers of higher ability while someone less talented may be kept in office when strategic change has to be enforced.</div>
+<br><br>
+**Reference-dependent preferences and the impact of wage increases on job satisfaction: Theory and evidence**<br>
+<a href="https://www.hrm.rwth-aachen.de/cms/HRM/Der-Lehrstuhl/~stei/Team/lidx/1/">Christian Grund</a>, <a href="#">Dirk Sliwka</a><br>
+*Journal of Institutional and Theoretical Economics*<br>
+<div style="margin-bottom: 2px;"></div>
+<br><br>
+
+
+## 2006
+**Career concerns in a simple experimental labour market**<br>
+<a href="https://wiso.uni-koeln.de/de/forschung/find-an-expert/expertinnen/prof-dr-bernd-irlenbusch">Bernd Irlenbusch</a>, <a href="#">Dirk Sliwka</a><br>
+*European Economic Review*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1016/j.euroecorev.2004.10.003" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2006-Career-concerns-in-a-simple-experimental-labour-market')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2006-Career-concerns-in-a-simple-experimental-labour-market" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We experimentally investigate a simple version of Holmström's career concerns model in which firms compete for agents in two consecutive periods. Profits of firms are determined by agents’ unknown ability and the effort they choose. Before making second-period wage offers firms are informed about first-period profits. In a different treatment firms additionally learn the abilities of agents. Theory suggests high first-period equilibrium effort in the hidden ability treatment but no effort elsewhere. However, we find that effort tends to be higher in the revealed ability treatment and therefore conclude that transparency does not weaken, but strengthen career concerns incentives.</div>
+<br><br>
+**Strategic delegation and mergers in oligopolistic contests**<br>
+<a href="#">Matthias Kräkel</a>, <a href="#">Dirk Sliwka</a><br>
+*Journal of Economics and Business*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1016/j.jeconbus.2005.08.003" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2006-Strategic-delegation-and-mergers-in-oligopolistic-contests')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2006-Strategic-delegation-and-mergers-in-oligopolistic-contests" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">In this paper, we combine the strategic delegation approach of Fershtman–Judd–Sklivas with contests. Here a contest means the expenditure of resources in order to influence the allocation of a fixed demand for a certain product. At the first stage of the game, firm owners decide on incentive schemes for their managers. At the second stage, managers choose the firms’ resource expenditures. These expenditures determine the firms’ market shares via a logit-form contest. If we have more than two firms, there will exist a unique subgame perfect equilibrium which is symmetric. We introduce the possibility of merging at an initial stage where owners are allowed to buy and shut down their rivals’ firms. The resulting merged subgame perfect equilibria show that there is clearly more merging under contest than under Cournot competition.</div>
+<br><br>
+**On the notion of responsibility in organizations**<br>
+<a href="#">Dirk Sliwka</a><br>
+*Journal of Law, Economics, and Organization*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1093/jleo/ewj012" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2006-On-the-notion-of-responsibility-in-organizations')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2006-On-the-notion-of-responsibility-in-organizations" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We derive a natural definition of responsibility in a formal model in which employees care for their career prospects: A superior holds a subordinate responsible for a task when she announces her belief that this subordinate contributes most to this task. We show that those announced beliefs lead to a self-fulfilling prophecy, as the reputation of the responsible subordinate is then affected by the outcome of the task and he therefore has strong incentives to contribute to its success. There are equilibria in which either a single agent or no agent is responsible for a task but joint responsibility never arises. Several extensions are discussed.</div>
+<br><br>
+
+
+## 2005
+**Transparency and reciprocal behavior in employment relations**<br>
+<a href="https://wiso.uni-koeln.de/de/forschung/find-an-expert/expertinnen/prof-dr-bernd-irlenbusch">Bernd Irlenbusch</a>, <a href="#">Dirk Sliwka</a><br>
+*Journal of Economic Behavior & Organization*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1016/j.jebo.2003.09.016" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2005-Transparency-and-reciprocal-behavior-in-employment-relations')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2005-Transparency-and-reciprocal-behavior-in-employment-relations" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">The impact of transparency on the extent of reciprocal behavior is investigated in a simple repeated gift exchange experiment where principals set wages and agents respond by choosing effort levels that, with a random component, determine principals’ payoff. It is shown that direct reciprocal behavior is much stronger in a more transparent situation where efforts are revealed to the principals. However, there is no significant impact of transparency on average effort as non-transparency leads to a stronger diversity in behavioral patterns such that, at the same time, the frequency of very low and very large effort levels increases.</div>
+<br><br>
+**Envy and compassion in tournaments**<br>
+<a href="https://www.hrm.rwth-aachen.de/cms/HRM/Der-Lehrstuhl/~stei/Team/lidx/1/">Christian Grund</a>, <a href="#">Dirk Sliwka</a><br>
+*Journal of Economics & Management Strategy*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1111/j.1430-9134.2005.00039.x" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2005-Envy-and-compassion-in-tournaments')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2005-Envy-and-compassion-in-tournaments" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">Many experiments and field studies indicate that most individuals are not purely motivated by material self-interest but also care about the well being of others. In this paper, we examine tournaments among inequity averse agents, who dislike disadvantageous inequity (envy) and advantageous inequity (compassion). It turns out that inequity averse agents exert higher efforts than purely self-interested agents for a given prize structure. Contrary to standard tournament theory, first-best efforts cannot be implemented when prizes are endogenous. Furthermore, the choice between vertical and lateral promotions is examined and it is shown that inequity costs have to be traded off against losses in human capital.</div>
+<br><br>
+
+
+## 2004
+**Risk taking in asymmetric tournaments**<br>
+<a href="#">Matthias Kräkel</a>, <a href="#">Dirk Sliwka</a><br>
+*German Economic Review*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1111/j.1465-6485.2004.00096.x" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2004-Risk-taking-in-asymmetric-tournaments')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2004-Risk-taking-in-asymmetric-tournaments" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">A tournament is examined in which two agents with different abilities choose efforts as well as risks. According to the previous literature, the more (less) able agent should choose a low (high) risk strategy, because the first one does not want to imperil his favorable position, whereas the last one can only gain by increasing risk. We show that this is not necessarily true. Risk taking affects equilibrium efforts as well as winning probabilities. Depending on both effects diverse equilibria are possible. For example, the low and the high ability agent may both choose high risks or both choose low risks.</div>
+<br><br>
+
+
+## 2003
+**Do new brooms sweep clean? When and why dismissing a manager increases the subordinates’ performance**<br>
+<a href="#">Felix Höffler</a>, <a href="#">Dirk Sliwka</a><br>
+*European Economic Review*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1016/S0014-2921(02)00272-6" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2003-Do-new-brooms-sweep-clean?-When-and-why-dismissing-a-manager-increases-the-subordinates’-performance')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2003-Do-new-brooms-sweep-clean?-When-and-why-dismissing-a-manager-increases-the-subordinates’-performance" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">If a manager stays in office for a long time he will have learned much about his subordinates. Thus competition among them will be weak as the manager has made up his mind who is suited best for which position. With a new manager the “race” for favorable tasks is restarted leading subordinates to exert higher effort. But for the firm-owner the trade-off arises that with a new manager effort is larger but the quality of task allocation is worse since information is lost. The optimal dismissal policy will be nonmonotonic in the expected heterogeneity of the subordinates’ abilities.</div>
+<br><br>
+**Organizational structure and innovative activity**<br>
+<a href="#">Dirk Sliwka</a><br>
+*Economics of Governance*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1007/s10101-002-0054-y" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2003-Organizational-structure-and-innovative-activity')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2003-Organizational-structure-and-innovative-activity" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">A model is analyzed in which agents exert effort to create innovations within an organization. When payments are infeasible, the decision on the implementation of a proposal is shown to be made by simple monotonic decision rules. Organizational structure is then determined by a collection of decision rules. A trade-off arises between the use of information and the incentives created by a rule. If the former dominates it will currently be optimal to install a hierarchy. Otherwise decentralization by granting autonomy to innovators may be better. Requiring unanimous decision-making is optimal if a strong filtering of proposals is necessary.</div>
+<br><br>
+**Zu impliziten Anreizen in Arbeitsbeziehungen—eine experimentelle Studie**<br>
+<a href="https://wiso.uni-koeln.de/de/forschung/find-an-expert/expertinnen/prof-dr-bernd-irlenbusch">Bernd Irlenbusch</a>, <a href="#">Dirk Sliwka</a><br>
+*Ökonomische Analyse von Governance-Strukturen*<br>
+<div style="margin-bottom: 2px;"></div>
+<br><br>
+
+
+## 2002
+**On the use of nonfinancial performance measures in management compensation**<br>
+<a href="#">Dirk Sliwka</a><br>
+*Journal of Economics & Management Strategy*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1111/j.1430-9134.2002.00487.x" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2002-On-the-use-of-nonfinancial-performance-measures-in-management-compensation')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2002-On-the-use-of-nonfinancial-performance-measures-in-management-compensation" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">It is often claimed that (i) managers work too hard on operational issues and do not spend enough effort on strategic activities, and (ii) something can be done about this by introducing nonfinancial performance measures, as for instance with a balanced scorecard. We give an explanation for both claims in a formal model. The distortion toward operational effort arises because with financial performance measures strategic effort can only be rewarded in the future. But renegotiation-proof long-term compensation plans entail too weak variable components in the future. This problem can be reduced by introducing performance measures that help to disentangle strategic and operational effects.</div>
+<br><br>
+
+
+## 2001
+**Never change a winning team — Team-Entlohnung und implizite Kooperation**<br>
+<a href="#">Dirk Sliwka</a><br>
+*Schmalenbachs Zeitschrift für betriebswirtschaftliche Forschung*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1007/BF03372668" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2001-Never-change-a-winning-team-—-Team-Entlohnung-und-implizite-Kooperation')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2001-Never-change-a-winning-team-—-Team-Entlohnung-und-implizite-Kooperation" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">The optimal incentives for a team are analyzed in a principal-agent model. It is shown that it can be beneficial to make an agent’s compensation positively dependent on another agent’s success even when tasks are technologically independent. The introduction of team compensation induces implicit cooperation and mutual monitoring. This is modeled explicitly in a repeated game. Team compensation can be optimal even in cases, where in the static model relative performance evaluation is preferred. It is the more beneficial the higher the probability of an ongoing relationship.</div>
+<br><br>
+**On synergies and vertical integration**<br>
+<a href="#">Patrick W Schmitz</a>, <a href="#">Dirk Sliwka</a><br>
+*International Journal of Industrial Organization*<br>
+<div style="margin-bottom: 2px;"></div>
+<a href="https://doi.org/10.1016/S0167-7187(99)00063-6" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;">  WEB  </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2001-On-synergies-and-vertical-integration')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<div id="abstract-2001-On-synergies-and-vertical-integration" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">We analyze in an incomplete contracts model whether a supplier should be integrated if in addition to his investment level he chooses the degree of relationship specificity. A basic trade-off arises: While non-integration leads to higher investment incentives, potential synergies are foregone. Hence, integration can be optimal even though only the supplier makes an investment decision. This may also clarify the discussion on which activities belong to a firm’s core competencies. Furthermore, we show that if specificity is contractible, less than the efficient degree of specificity will deliberately be chosen since investment incentives are thereby improved.</div>
+<br><br>
+**On the costs and benefits of delegation in organizations**<br>
+<a href="#">Dirk Sliwka</a><br>
+*Journal of Institutional and Theoretical Economics*<br>
+<div style="margin-bottom: 2px;"></div>
+<br><br>
+**Innerbetriebliche Aufgabenverteilung und Delegation**<br>
+<a href="#">Matthias Kräkel</a>, <a href="#">Dirk Sliwka</a><br>
+*Die Prinzipal-Agenten-Theorie in der Betriebswirtschaftslehre*<br>
+<div style="margin-bottom: 2px;"></div>
+<br><br>
+
+
+## 1998
+**Die Bedeutung von privater Information für Vertragsbeziehungen zwischen Käufern und Verkäufern**<br>
+<a href="#">Patrick W Schmitz</a>, <a href="#">Dirk Sliwka</a>, <a href="#">others</a><br>
+*Homo Oeconomicus*<br>
+<div style="margin-bottom: 2px;"></div>
+<br><br>
+<script>
+function toggleAbstract(id) {
+    var element = document.getElementById(id);
+    if (element.style.display === 'none' || element.style.display === '') {
+        element.style.display = 'block';
+    } else {
+        element.style.display = 'none';
+    }
+}
+</script>
