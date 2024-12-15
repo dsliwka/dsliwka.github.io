@@ -1,1 +1,1 @@
-Sitemap: https://dsliwka.github.io/dsliwka.gihub.io/sitemap.xml
+Sitemap: https://dsliwka.github.io/sitemap.xml
