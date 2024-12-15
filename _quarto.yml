@@ -8,6 +8,7 @@ website:
     background: "#FFFFFF"
     foreground: "#000000"
     search: true
+    pinned: true
     left:
       - text: "papers & publications"
         href: papers.qmd
