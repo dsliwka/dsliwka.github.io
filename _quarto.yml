@@ -4,6 +4,7 @@ project:
 website:
   title: "Dirk Sliwka"
   favicon: assets\icons\UoC_logo.jpg
+  page-footer: "Dirk Sliwka" 
   navbar:
     background: "#FFFFFF"
     foreground: "#000000"
