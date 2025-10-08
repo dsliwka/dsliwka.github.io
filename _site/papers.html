@@ -179,7 +179,7 @@ We present a natural field experiment on promoting pay equity through simple mod
 <div style="margin-bottom: 2px;">
 
 </div>
-<a href="assets/pdf/OSW_Final_Paper_13Feb2024.pdf" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;"> PDF </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2025-Multi-rater-Performance-Evaluations-and-Incentives')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
+<a href="assets/pdf/OSW_Final_Paper_13Feb2024.pdf" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;"> PDF </a>&nbsp;&nbsp;<a href="https://doi.org/10.1086/730321" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; display: inline-block;"> WEB </a>&nbsp;&nbsp;<button onclick="toggleAbstract('abstract-2025-Multi-rater-Performance-Evaluations-and-Incentives')" style="border: 1px solid #007a04; color: #007a04; padding: 1px 8px; text-decoration: none; font-size: 0.7em; background: none; display: inline-block;">Abstract</button>
 <div id="abstract-2025-Multi-rater-Performance-Evaluations-and-Incentives" style="display:none; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">
 We compare evaluations of employee performance by individuals and groups of supervisors, analyzing a formal model and running a laboratory experiment. The model predicts that multi-rater evaluations are more precise than single-rater evaluations if groups rationally aggregate their signals about employee performance. Our controlled laboratory experiment confirms this prediction and finds evidence that this can indeed be attributed to accurate information processing in the group. Moreover, when employee compensation depends on evaluations, multi-rater evaluations tend to be associated with higher performance.
 </div>
@@ -859,7 +859,7 @@ function toggleAbstract(id) {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/dsliwka\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
